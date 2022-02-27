@@ -21,7 +21,7 @@ edit_time = 5
 file1 = "https://telegra.ph/file/f1e9b94decb547cb45cab.jpg"
 file2 = "https://telegra.ph/file/c5b6c0a3a6832efc08e5b.jpg"
 file3 = "https://telegra.ph/file/1dbcdedfc78d0318a288b.jpg"
-file4 = "https://telegra.ph/file/ac522b519f77a1054e9e9.jpg"
+file4 = "https://telegra.ph/file/ac522b719f77a1054e9e9.jpg"
 """ =======================CONSTANTS====================== """
 
 START_TIME = datetime.utcnow()
